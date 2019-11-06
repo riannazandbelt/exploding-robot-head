@@ -16,12 +16,12 @@ body {
 .banner {
   background-color: #2b3851;
   width: 100%;
+  min-height: 240px;
   position: absolute;
 }
 
 .robot {
   width: 100%;
-  margin: 0;
   position: relative;
 }
 
