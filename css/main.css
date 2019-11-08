@@ -41,6 +41,10 @@ body {
   top: 24%;
 }
 
+.robot:hover .robot-brain {
+  top: 10%;
+}
+
 .robot-head-right,
 .robot-head-left {
   width: 125px;
@@ -53,7 +57,7 @@ body {
   top: 7%;
 }
 
-.robot-head-left:hover {
+.robot:hover .robot-head-left {
   top: 5%;
   left: 40%;
 }
@@ -64,7 +68,7 @@ body {
   top: 7%;
 }
 
-.robot-head-right:hover {
+.robot:hover .robot-head-right {
   top: 5%;
   left: 59%;
 }
