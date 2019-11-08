@@ -48,7 +48,7 @@ body {
 }
 
 .robot-head-left {
-  left: 43.75%;
+  left: 43.65%;
   transform: translateX(-50%);
   top: 7%;
 }
@@ -59,7 +59,7 @@ body {
 }
 
 .robot-head-right {
-  left: 56.15%;
+  left: 56.5%;
   transform: translateX(-50%);
   top: 7%;
 }
